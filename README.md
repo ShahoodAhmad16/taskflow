@@ -47,7 +47,7 @@ task-manager/
 │   ├── tasks/
 │   ├── manage.py
 │   └── ...
-│
+
 ├── frontend/
 │   ├── public/
 │   ├── src/
@@ -58,9 +58,13 @@ task-manager/
 │   │   └── main.jsx
 │   ├── package.json
 │   └── ...
-│
+
+├── screenshots/
+│   └── taskflow.png
+
 ├── .gitignore
 └── README.md
+```
 
 ## Screenshots
 
