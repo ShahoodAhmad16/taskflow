@@ -62,6 +62,10 @@ task-manager/
 ├── .gitignore
 └── README.md
 
+## Screenshots
+
+![TaskFlow Application](screenshots/taskflow.png)
+
 
 ## Installation & Setup
 
